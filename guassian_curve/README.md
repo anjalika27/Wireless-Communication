@@ -1,4 +1,4 @@
-# Vanashree_GaussianFunc_pdf_cdf
+# GaussianFunc_pdf_cdf
 
 ## Probability Density Function (PDF) of Gaussian function
 ![image](https://github.com/VanashreeParate/Vanashree_GaussianFunc_pdf_cdf/assets/122006743/5119226b-0a45-476f-9e95-7682fc795853)                                           
